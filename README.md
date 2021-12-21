@@ -1,0 +1,1 @@
+I have done this just to get more familiar with pyautogui library . . . Go to http://www.aimbooster.com/ and maximize ur browser (just ur browser) You should have 1920x1080 resolution or it wont work! . . . While u have ur browser maximized run the aimbooster.py and then start the game.
